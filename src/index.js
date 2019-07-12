@@ -67,6 +67,7 @@ class Beer {
 
             beer_detail.append(h1, img, h3, textArea, button)
         })
+        
         beer_list.append(li);
 
     }
